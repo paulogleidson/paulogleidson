@@ -1,16 +1,46 @@
-## Hi there 👋
+# Paulo G.L. Sampaio
 
-<!--
-**paulogleidson/paulogleidson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudante de Sistemas de Informação | Desenvolvedor Backend**  
+*Localização: Aratuba / Quixadá, Ceará*
 
-Here are some ideas to get you started:
+Sou um desenvolvedor focado em soluções pragmáticas e metódicas. Atualmente curso Sistemas de Informação na Universidade Federal do Ceará (UFC - Quixadá). Tenho formação técnica em Contabilidade, o que me confere uma visão rigorosa sobre regras de negócio e organização de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha prática de desenvolvimento é guiada pela busca da virtude e da ética técnica, priorizando código limpo e arquiteturas que respeitem a lógica e a eficiência.
+
+---
+
+### Tecnologias e Competências
+
+#### Linguagens e Frameworks
+*   **Java:** Foco atual em desenvolvimento de APIs robustas.
+*   **Python:** Experiência com **FastAPI**, SQLModel e Delta Lake.
+*   **Bancos de Dados:** PostgreSQL e integração de dados.
+*   **Ferramentas:** Git, Docker.
+
+#### Arquitetura e Engenharia
+*   Desenvolvimento de APIs RESTful.
+*   Princípios de Clean Code e Programação Orientada a Objetos.
+*   Familiaridade com integração de pipelines e controle de versão.
+
+---
+
+### Projetos Recentes
+
+*   **E-commerce Aratuba API:** Backend completo desenvolvido com SQLModel e PostgreSQL, focado em regras de negócio para gestão de pedidos e produtos.
+*   **Sistema CRUD Delta Lake:** Implementação de um sistema de processamento de dados utilizando FastAPI e camadas de armazenamento Delta.
+
+---
+
+### Educação e Idiomas
+
+*   **Graduação:** Sistemas de Informação - UFC Quixadá (Em andamento).
+*   **Técnico:** Contabilidade.
+*   **Idiomas:** 
+    *   Português (Nativo)
+    *   Inglês (Nível A2+ / Em evolução para B1)
+
+---
+
+**Contato:**
+pgleitaosamp@gmail.com
+https://www.linkedin.com/in/qapaulogsampaio/
