@@ -1,4 +1,4 @@
-# Paulo Sampaio
+# Paulo G. Sampaio
 
 **Estudante de Sistemas de Informação | Desenvolvedor Backend** *Localização: Aratuba / Quixadá, Ceará*
 
