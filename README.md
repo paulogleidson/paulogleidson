@@ -24,13 +24,6 @@ Minha prática de desenvolvimento é guiada pela busca da virtude e da ética t�
 
 ---
 
-### Projetos Recentes
-
-*   **E-commerce Aratuba API:** Backend completo desenvolvido com SQLModel e PostgreSQL, focado em regras de negócio para gestão de pedidos e produtos.
-*   **Sistema CRUD Delta Lake:** Implementação de um sistema de processamento de dados utilizando FastAPI e camadas de armazenamento Delta.
-
----
-
 ### Educação e Idiomas
 
 *   **Graduação:** Sistemas de Informação - UFC Quixadá (Em andamento).
