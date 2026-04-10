@@ -5,7 +5,7 @@
 
 Sou um desenvolvedor focado em soluções pragmáticas e metódicas. Atualmente curso Sistemas de Informação na Universidade Federal do Ceará (UFC - Quixadá). Tenho formação técnica em Contabilidade, o que me confere uma visão rigorosa sobre regras de negócio e organização de dados.
 
-Minha prática de desenvolvimento é guiada pela busca da virtude e da ética técnica, priorizando código limpo e arquiteturas que respeitem a lógica e a eficiência.
+Minha prática de desenvolvimento é guiada pela busca da virtude e da ética técnica, priorizando código limpo e arquiteturas que respeitem a lógica e a eficiência e performance.
 
 ---
 
