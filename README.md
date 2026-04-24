@@ -2,7 +2,7 @@
 
 **Estudante de Sistemas de Informação | Desenvolvedor Backend***
 
-Sou um desenvolvedor focado em soluções práticas e metódicas. Atualmente curso Sistemas de Informação na Universidade Federal do Ceará (UFC - Quixadá). Tenho formação técnica em Contabilidade, o que me confere uma visão rigorosa sobre regras de negócio e organização e validação de dados.
+Focado em soluções práticas e metódicas. Atualmente curso Sistemas de Informação na Universidade Federal do Ceará (UFC - Quixadá). Tenho formação técnica em Contabilidade, o que me confere uma visão rigorosa sobre regras de negócio e organização e validação de dados.
 Minha prática de desenvolvimento é guiada pela busca da ética técnica, priorizando código limpo e arquiteturas que respeitem a lógica e a eficiência.
 
 ---
