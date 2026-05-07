@@ -24,7 +24,7 @@ Minha prática de desenvolvimento é guiada pela busca da ética técnica, prior
 * **Graduação:** Sistemas de Informação - UFC Quixadá (Em andamento).
 * **Técnico:** Contabilidade.
 * **Idiomas:** * Português (Nativo)
-    * Inglês (Nível A2+ / Em evolução para B1)
+    * Inglês (Nível B1)
 
 ---
 
